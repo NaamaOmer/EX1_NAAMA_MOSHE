@@ -1,5 +1,9 @@
 
-"""---------------------------Creature-class-----------------------------------------------------------------"""
+"""This is a class that represent a creature"""
+
+"""
+Authors: Moshe Zeev Hefter 205381379 and Naama Omer 207644014
+"""
 
 
 class Creature:
