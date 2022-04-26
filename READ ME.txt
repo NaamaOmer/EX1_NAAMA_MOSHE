@@ -1,3 +1,6 @@
-כדי להריץ את תרגיל בית זה,
-יש ללחוץ פעמיים על קובץ הEXE שנקרא ex1 כשהוא נמצא בנתיב שכולל גם את:
-icon.png - שצירפנו בקובץ הZIP.
+Run Instructions:
+  In order to Run this exersice please download the files in zip file or download only the 2 files:
+  1) ex1.exe
+  2) icon.png
+  to the SAME path/folder. Then you should click twice on the exe file:ex1.exe to run the program.  
+  
