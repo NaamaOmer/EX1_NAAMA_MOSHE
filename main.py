@@ -7,7 +7,7 @@ import random as rand
 from matplotlib import pyplot as plt
 
 """
-Authors: Moshe Zeev Hefter and Naama Omer
+Authors: Moshe Zeev Hefter 205381379 and Naama Omer 207644014
 """
 
 SIZE = 200
