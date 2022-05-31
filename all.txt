@@ -1,0 +1,6 @@
+./inputs/5_easy.txt
+./inputs/5_tricky.txt
+./inputs/6_easy.txt
+./inputs/6_tricky.txt
+./inputs/7_easy.txt
+./inputs/7_tricky.txt
